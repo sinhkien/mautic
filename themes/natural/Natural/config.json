@@ -1,0 +1,9 @@
+{
+    "name": "Natural",
+    "author": "xtendee Mautic Themes",
+    "authorUrl": "https://themes.mtcextendee.com",
+    "builder": ["legacy", "grapesjsbuilder"],
+    "features": [
+        "email"
+    ]
+}
